@@ -281,6 +281,9 @@ header{
 .graphic-design{
     grid-area: graphic;
     background-color: var(--color-galactic-blue);
+    background-image: url(/assets/peach_macroons.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 
@@ -288,30 +291,45 @@ header{
     grid-area: ui;
     background-color: var(--color-summer-yellow);
     height: 182px;
+    background-image: url(/assets/cake.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .apps{
     grid-area: app;
     background-color: var(--color-pink);
     height: 182px;
+    background-image: url(/assets/tart.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .illustrations
 {
     grid-area: illustrations;
     background-color: var(--color-light-red);
+    background-image: url(/assets/treats.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .photography
 {
     grid-area: photography;
     background-color: var(--color-cyan);
+    background-image: url(/assets/pink_macroons.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .motion
 {
     grid-area: motion;
     background-color: var(--color-dark-purple);
+    background-image: url(/assets/cookies.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 /*About Section*/
